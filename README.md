@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=180&section=header&text=Ananya%20Shukla&fontSize=55&fontColor=58a6ff&fontAlignY=40&desc=CS%20Undergrad%20%7C%20AI%2FML%20Researcher-in-Making%20%7C%20ML%20/ DL / NLP&descAlignY=62&descColor=8b949e&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=180&section=header&text=Ananya%20Shukla&fontSize=55&fontColor=58a6ff&fontAlignY=40&desc=CS%20Undergrad%20%7C%20AI%2FML%20Researcher-in-Making%20%7C%20MS%20Aspirant&descAlignY=62&descColor=8b949e&animation=fadeIn"/>
 
 <br/>
 
@@ -116,7 +116,7 @@ Mindset      : Curiosity-first · Research-driven · Always building
 
 <div align="center">
 
-> *"Character is Destiny."*
+> *"Character is destiny."*
 > — Heraclitus
 
 </div>
