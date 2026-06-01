@@ -8,7 +8,6 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-ananya--csai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ananya-csai)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=ananya-csai&style=flat-square&color=58a6ff&label=Profile+Views)
 
 </div>
 
