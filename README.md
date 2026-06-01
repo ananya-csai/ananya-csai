@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=180&section=header&text=Ananya%20Shukla&fontSize=55&fontColor=58a6ff&fontAlignY=40&desc=CS%20Undergrad%20%7C%20AI%2FML%20Researcher-in-Making%20%7C%20MS%20Aspirant&descAlignY=62&descColor=8b949e&animation=fadeIn"/>
 
-<br/>
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananya%20Shukla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shukla-ananya/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-ananyashukla.0777-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ananyashukla.0777@gmail.com)
