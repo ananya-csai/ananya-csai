@@ -17,7 +17,7 @@
 
 ```yaml
 Name         : Ananya Shukla
-Degree       : B.Tech Computer Science & Engineering (2023–2027)
+Degree       : B.Tech Computer Science & Engineering (2024–2028)
 University   : Manipal University Jaipur, India
 Focus        : Machine Learning · Deep Learning · Data Science
 Research     : Reading papers on ML/AI (arXiv, Papers With Code)
