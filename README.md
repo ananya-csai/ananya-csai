@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=B.Tech+CSE+%40+Manipal+University+Jaipur;Interested+in+Machine+Learning+%26+Deep+Learning;Research-Oriented+%7C+MS+%2F+PhD+Aspirant;Building+one+project+at+a+time+🚀" />
+
 
 <br/><br/>
 
