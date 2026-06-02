@@ -21,14 +21,12 @@ Degree       : B.Tech Computer Science & Engineering (2024–2028)
 University   : Manipal University Jaipur, India
 Focus        : Machine Learning · Deep Learning · Data Science
 Research     : Reading papers on ML/AI (arXiv, Papers With Code)
-Goal         : MS / PhD in Artificial Intelligence or related field
 Mindset      : Curiosity-first · Research-driven · Always building
 ```
 
 - 🤖 Passionate about **Machine Learning, Deep Learning & Data Science**
 - 🔬 Developing a **research-oriented foundation** — reading papers, understanding theory
 - 📊 Interested in how **data can be turned into meaningful insight and decisions**
-- 🎯 Long-term goal: **Graduate studies (MS/PhD) in AI/ML** at a top university
 - 🌱 Currently strengthening: **ML fundamentals, statistics & hands-on projects**
 
 ---
