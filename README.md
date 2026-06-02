@@ -108,7 +108,7 @@ Mindset      : Curiosity-first · Research-driven · Always building
 <div align="center">
 
 > *"Character is destiny."*
->  - Heraclitus
+> - Heraclitus
 
 </div>
 
